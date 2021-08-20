@@ -1,9 +1,10 @@
 <template>
   <q-page class="flex flex-center">
+    <!-- https://www.1001fonts.com/grenadier-font.html -->
     <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
+      alt="Logo"
+      src="~assets/logo.png"
+      style="width: auto; height: 100px"
     >
   </q-page>
 </template>
