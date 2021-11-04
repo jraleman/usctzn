@@ -2,6 +2,8 @@
   "name": "usctzn",
   "version": "0.1.0",
   "private": true,
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -10,6 +12,14 @@
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
+  },
+  "devDependencies": {
+    "cordova-plugin-whitelist": "^1.3.4"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    }
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ]
 }
