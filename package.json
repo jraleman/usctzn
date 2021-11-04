@@ -4,6 +4,7 @@
   "private": true,
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
+  "homepage": "./",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
