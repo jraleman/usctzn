@@ -5,19 +5,35 @@ Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <div>
-        <h3 />
-        <ol>
-          <li />
+      <div
+        class="sc-gsDKAQ gYYfnA"
+      >
+        <h4
+          class="sc-dkPtRN evVIa-d"
+        />
+        <ol
+          class="sc-hKwDye jKYKGU"
+        >
+          <li
+            class="sc-bdvvtL blmbaR"
+          />
         </ol>
       </div>
     </div>
   </body>,
   "container": <div>
-    <div>
-      <h3 />
-      <ol>
-        <li />
+    <div
+      class="sc-gsDKAQ gYYfnA"
+    >
+      <h4
+        class="sc-dkPtRN evVIa-d"
+      />
+      <ol
+        class="sc-hKwDye jKYKGU"
+      >
+        <li
+          class="sc-bdvvtL blmbaR"
+        />
       </ol>
     </div>
   </div>,
@@ -80,12 +96,20 @@ Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <div>
-        <h3>
+      <div
+        class="sc-gsDKAQ gYYfnA"
+      >
+        <h4
+          class="sc-dkPtRN evVIa-d"
+        >
           What is the form of government of the United States?
-        </h3>
-        <ol>
-          <li>
+        </h4>
+        <ol
+          class="sc-hKwDye jKYKGU"
+        >
+          <li
+            class="sc-bdvvtL blmbaR"
+          >
             Republic
             Constitution-based federal republic
             Representative democracy
@@ -95,12 +119,20 @@ Object {
     </div>
   </body>,
   "container": <div>
-    <div>
-      <h3>
+    <div
+      class="sc-gsDKAQ gYYfnA"
+    >
+      <h4
+        class="sc-dkPtRN evVIa-d"
+      >
         What is the form of government of the United States?
-      </h3>
-      <ol>
-        <li>
+      </h4>
+      <ol
+        class="sc-hKwDye jKYKGU"
+      >
+        <li
+          class="sc-bdvvtL blmbaR"
+        >
           Republic
           Constitution-based federal republic
           Representative democracy

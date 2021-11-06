@@ -8,7 +8,7 @@ describe('FlashCard', () => {
         const question = '';
         const answers = [''];
         const component = render(<FlashCard question={question} answers={answers} />);
-        expect(component.container).not.toBeNull();
+        expect(component).not.toBeNull();
         expect(component).toMatchSnapshot();
     });
 
@@ -22,7 +22,7 @@ describe('FlashCard', () => {
         expect(answers[0]).toEqual(
             expect.arrayContaining([expect.any(String)])
         );
-        expect(component.container).not.toBeNull();
+        expect(component).not.toBeNull();
         expect(component).toMatchSnapshot();
     });
 });
