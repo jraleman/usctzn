@@ -1,0 +1,1883 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sections renders 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <h2>
+          Questions and Answers
+        </h2>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <h2>
+        Questions and Answers
+      </h2>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Sections shows some sections 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <h2>
+          Questions and Answers
+        </h2>
+        <div>
+          <h3>
+            Principles of American Government
+          </h3>
+          <div>
+            <h4>
+              What is the form of government of the United States?
+            </h4>
+            <ol>
+              <li>
+                Republic
+              </li>
+              <li>
+                Constitution-based federal republic
+              </li>
+              <li>
+                Representative democracy
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What is the supreme law of the land?*
+            </h4>
+            <ol>
+              <li>
+                (U.S.) Constitution
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Name one thing the U.S. Constitution does.
+            </h4>
+            <ol>
+              <li>
+                Forms the government
+              </li>
+              <li>
+                Defines powers of government
+              </li>
+              <li>
+                Defines the parts of government
+              </li>
+              <li>
+                Protects the rights of the people
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              The U.S. Constitution starts with the words "We the People. What does "We the People" mean?
+            </h4>
+            <ol>
+              <li>
+                Self-government
+              </li>
+              <li>
+                Popular sovereignty
+              </li>
+              <li>
+                Consent of the governed
+              </li>
+              <li>
+                People should govern themselves
+              </li>
+              <li>
+                (Example of) social contract
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              How are changes made to the U.S. Constitution?
+            </h4>
+            <ol>
+              <li>
+                Amendments
+              </li>
+              <li>
+                The amendment process
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What does the Bill of Rights protect?
+            </h4>
+            <ol>
+              <li>
+                (The basic) rights of Americans
+              </li>
+              <li>
+                (The basic) rights of people living in the United States
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              How many amendments does the U.S. Constitution have?*
+            </h4>
+            <ol>
+              <li>
+                Twenty-seven (27)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Why is the Declaration of Independence important?
+            </h4>
+            <ol>
+              <li>
+                It says America is free from British control.
+              </li>
+              <li>
+                It says all people are created equal.
+              </li>
+              <li>
+                It identifies inherent rights.
+              </li>
+              <li>
+                It identifies individual freedoms.
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What founding document said the American colonies were free from Britain?
+            </h4>
+            <ol>
+              <li>
+                Declaration of Independence
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Name two important ideas from the Declaration of Independence and the U.S. Constitution.
+            </h4>
+            <ol>
+              <li>
+                Equality
+              </li>
+              <li>
+                Liberty
+              </li>
+              <li>
+                Social contract
+              </li>
+              <li>
+                Natural rights
+              </li>
+              <li>
+                Limited government
+              </li>
+              <li>
+                Self-government
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              The words "Life, Liberty, and the pursuit of Happiness" are in what founding document?
+            </h4>
+            <ol>
+              <li>
+                Declaration of Independence
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What is the economic system of the United States?*
+            </h4>
+            <ol>
+              <li>
+                Capitalism
+              </li>
+              <li>
+                Free market economy
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What is the rule of law?
+            </h4>
+            <ol>
+              <li>
+                Everyone must follow the law.
+              </li>
+              <li>
+                Leaders must obey the law.
+              </li>
+              <li>
+                Government must obey the law.
+              </li>
+              <li>
+                No one is above the law.
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Many documents influenced the U.S. Constitution. Name one.
+            </h4>
+            <ol>
+              <li>
+                Declaration of Independence
+              </li>
+              <li>
+                Articles of Confederation
+              </li>
+              <li>
+                Federalist Papers
+              </li>
+              <li>
+                Anti-Federalist Papers
+              </li>
+              <li>
+                Virginia Declaration of Rights
+              </li>
+              <li>
+                Fundamental Orders of Connecticut
+              </li>
+              <li>
+                Mayflower Compact
+              </li>
+              <li>
+                Iroquois Great Law of Peace
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              There are three branches of government. Why?
+            </h4>
+            <ol>
+              <li>
+                So one part does not become too powerful
+              </li>
+              <li>
+                Checks and balances
+              </li>
+              <li>
+                Separation of powers
+              </li>
+            </ol>
+          </div>
+          <hr />
+        </div>
+        <div>
+          <h3>
+            System of Government
+          </h3>
+          <div>
+            <h4>
+              Name the three branches of government
+            </h4>
+            <ol>
+              <li>
+                Legislative, executive, and judicial
+              </li>
+              <li>
+                Congress, president, and the courts
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              The President of the United States is in charge of which branch of government?
+            </h4>
+            <ol>
+              <li>
+                Executive branch
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What part of the federal government writes laws?
+            </h4>
+            <ol>
+              <li>
+                (U.S.) Congress
+              </li>
+              <li>
+                (U.S. or national) legislature
+              </li>
+              <li>
+                Legislative branch
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What are the two parts of the U.S. Congress?
+            </h4>
+            <ol>
+              <li>
+                Senate and House (of Representatives)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Name one power of the U.S. Congress.
+            </h4>
+            <ol>
+              <li>
+                Writes laws
+              </li>
+              <li>
+                Declares war
+              </li>
+              <li>
+                Makes the federal budget
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              How many U.S. senators are there?
+            </h4>
+            <ol>
+              <li>
+                One hundred (100)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              How long is a term for a U.S. senator?
+            </h4>
+            <ol>
+              <li>
+                Six (6) years 
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who is one of your state's U.S. senators now?
+            </h4>
+            <ol>
+              <li>
+                Answers will vary. Visit: https://en.wikipedia.org/wiki/List_of_current_United_States_senators#List_of_senators
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              How many voting members are in the House of Representatives?
+            </h4>
+            <ol>
+              <li>
+                Four hundred thirty-five (435)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              How long is a term for a member of the House of Representatives?
+            </h4>
+            <ol>
+              <li>
+                Two (2) years
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Why do U.S. representatives serve shorter terms than U.S. senators?
+            </h4>
+            <ol>
+              <li>
+                To more closely follow public opinion
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              How many senators does each state have?
+            </h4>
+            <ol>
+              <li>
+                Two (2)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Why does each state have two senators?
+            </h4>
+            <ol>
+              <li>
+                Equal representation (for small states)
+              </li>
+              <li>
+                The Great Compromise (Connecticut Compromise)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Name your U.S. representative.
+            </h4>
+            <ol>
+              <li>
+                Answers will vary. See: https://www.house.gov/representatives/find-your-representative
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What is the name of the Speaker of the House of Representatives now?
+            </h4>
+            <ol>
+              <li>
+                Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives.
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who does a U.S. senator represent?
+            </h4>
+            <ol>
+              <li>
+                Citizens of their state
+              </li>
+              <li>
+                People of their state
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who elects U.S. senators?
+            </h4>
+            <ol>
+              <li>
+                Citizens from their state
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who does a member of the House of Representatives represent?
+            </h4>
+            <ol>
+              <li>
+                Citizens in their (congressional) district
+              </li>
+              <li>
+                Citizens in their district
+              </li>
+              <li>
+                People from their (congressional) district
+              </li>
+              <li>
+                People in their district
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who elects members of the House of Representatives?
+            </h4>
+            <ol>
+              <li>
+                Citizens from their (congressional) district
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Some states have more representatives than other states. Why?
+            </h4>
+            <ol>
+              <li>
+                (Because of) the state's population
+              </li>
+              <li>
+                (Because) they have more people
+              </li>
+              <li>
+                (Because) some states have more people
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              The President of the United States is elected for how many years?
+            </h4>
+            <ol>
+              <li>
+                Four (4) years
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              The President of the United States can serve only two terms. Why?
+            </h4>
+            <ol>
+              <li>
+                (Because of) the 22nd Amendment
+              </li>
+              <li>
+                To keep the president from becoming too powerful
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What is the name of the President of the United States now?
+            </h4>
+            <ol>
+              <li>
+                Visit uscis.gov/citizenship/testupdates for the name of the President of the United States.
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What is the name of the Vice President of the United States now?
+            </h4>
+            <ol>
+              <li>
+                Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States.
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              If the president can no longer serve, who becomes president?
+            </h4>
+            <ol>
+              <li>
+                The Vice President (of the United States)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Name one power of the president.
+            </h4>
+            <ol>
+              <li>
+                Signs bills into law
+              </li>
+              <li>
+                Vetoes bills
+              </li>
+              <li>
+                Enforces laws
+              </li>
+              <li>
+                Commander in Chief (of the military)
+              </li>
+              <li>
+                Chief diplomat
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who is Commander in Chief of the U.S. military?
+            </h4>
+            <ol>
+              <li>
+                The President (of the United States)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who signs bills to become laws?
+            </h4>
+            <ol>
+              <li>
+                The President (of the United States)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who vetoes bills?
+            </h4>
+            <ol>
+              <li>
+                The President (of the United States)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who appoints federal judges?
+            </h4>
+            <ol>
+              <li>
+                The President (of the United States)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              The executive branch has many parts. Name one.
+            </h4>
+            <ol>
+              <li>
+                President (of the United States)
+              </li>
+              <li>
+                Cabinet
+              </li>
+              <li>
+                Federal departments and agencies
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What does the President's Cabinet do?
+            </h4>
+            <ol>
+              <li>
+                Advises the President (of the United States)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What are two Cabinet-level positions?
+            </h4>
+            <ol>
+              <li>
+                Attorney General
+              </li>
+              <li>
+                Secretary of Agriculture
+              </li>
+              <li>
+                Secretary of Commerce
+              </li>
+              <li>
+                Secretary of Defense
+              </li>
+              <li>
+                Secretary of Education
+              </li>
+              <li>
+                Secretary of Energy
+              </li>
+              <li>
+                Secretary of Health and Human Services
+              </li>
+              <li>
+                Secretary of Homeland Security
+              </li>
+              <li>
+                Secretary of Housing and Urban Development
+              </li>
+              <li>
+                Secretary of the Interior
+              </li>
+              <li>
+                Secretary of Labor
+              </li>
+              <li>
+                Secretary of State
+              </li>
+              <li>
+                Secretary of Transportation
+              </li>
+              <li>
+                Secretary of the Treasury
+              </li>
+              <li>
+                Secretary of Veterans Affairs
+              </li>
+              <li>
+                Vice President (of the United States)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Why is the Electoral College important?
+            </h4>
+            <ol>
+              <li>
+                It decides who is elected president.
+              </li>
+              <li>
+                It provides a compromise between the popular election of the president and congressional selection.
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What is one part of the judicial branch?
+            </h4>
+            <ol>
+              <li>
+                Supreme Court
+              </li>
+              <li>
+                Federal Courts
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What does the judicial branch do?
+            </h4>
+            <ol>
+              <li>
+                Reviews laws
+              </li>
+              <li>
+                Explains laws
+              </li>
+              <li>
+                Resolves disputes (disagreements) about the law
+              </li>
+              <li>
+                Decides if a law goes against the (U.S.) Constitution
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What is the highest court in the United States?
+            </h4>
+            <ol>
+              <li>
+                Supreme Court
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              How many seats are on the Supreme Court?
+            </h4>
+            <ol>
+              <li>
+                Nine (9)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              How many Supreme Court justices are usually needed to decide a case?
+            </h4>
+            <ol>
+              <li>
+                Five (5)
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              How long do Supreme Court justices serve?
+            </h4>
+            <ol>
+              <li>
+                (For) life
+              </li>
+              <li>
+                Lifetime appointment
+              </li>
+              <li>
+                (Until) retirement
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who is the Chief Justice of the United States now?
+            </h4>
+            <ol>
+              <li>
+                Visit uscis.gov/citizenship/testupdates for the name of the Chief Justice of the United States.
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Name one power that is only for the federal government.
+            </h4>
+            <ol>
+              <li>
+                Print paper money
+              </li>
+              <li>
+                Mint coins
+              </li>
+              <li>
+                Declare war
+              </li>
+              <li>
+                Create an army
+              </li>
+              <li>
+                Make treaties
+              </li>
+              <li>
+                Set foreign policy
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Name one power that is only for the states.
+            </h4>
+            <ol>
+              <li>
+                Provide schooling and education
+              </li>
+              <li>
+                Provide protection (police)
+              </li>
+              <li>
+                Provide safety (fire departments)
+              </li>
+              <li>
+                Give a driver's license
+              </li>
+              <li>
+                Approve zoning and land use
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What is the purpose of the 10th Amendment?
+            </h4>
+            <ol>
+              <li>
+                (It states that the) powers not given to the federal government belong to the states or to the people.
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              Who is the governor of your state now?
+            </h4>
+            <ol>
+              <li>
+                Answers will vary. See: https://en.wikipedia.org/wiki/List_of_current_United_States_governors
+              </li>
+            </ol>
+          </div>
+          <div>
+            <h4>
+              What is the capital of your state?
+            </h4>
+            <ol>
+              <li>
+                Answers will vary. See: https://www.britannica.com/topic/list-of-state-capitals-in-the-United-States-2119210
+              </li>
+            </ol>
+          </div>
+          <hr />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <h2>
+        Questions and Answers
+      </h2>
+      <div>
+        <h3>
+          Principles of American Government
+        </h3>
+        <div>
+          <h4>
+            What is the form of government of the United States?
+          </h4>
+          <ol>
+            <li>
+              Republic
+            </li>
+            <li>
+              Constitution-based federal republic
+            </li>
+            <li>
+              Representative democracy
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What is the supreme law of the land?*
+          </h4>
+          <ol>
+            <li>
+              (U.S.) Constitution
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Name one thing the U.S. Constitution does.
+          </h4>
+          <ol>
+            <li>
+              Forms the government
+            </li>
+            <li>
+              Defines powers of government
+            </li>
+            <li>
+              Defines the parts of government
+            </li>
+            <li>
+              Protects the rights of the people
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            The U.S. Constitution starts with the words "We the People. What does "We the People" mean?
+          </h4>
+          <ol>
+            <li>
+              Self-government
+            </li>
+            <li>
+              Popular sovereignty
+            </li>
+            <li>
+              Consent of the governed
+            </li>
+            <li>
+              People should govern themselves
+            </li>
+            <li>
+              (Example of) social contract
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            How are changes made to the U.S. Constitution?
+          </h4>
+          <ol>
+            <li>
+              Amendments
+            </li>
+            <li>
+              The amendment process
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What does the Bill of Rights protect?
+          </h4>
+          <ol>
+            <li>
+              (The basic) rights of Americans
+            </li>
+            <li>
+              (The basic) rights of people living in the United States
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            How many amendments does the U.S. Constitution have?*
+          </h4>
+          <ol>
+            <li>
+              Twenty-seven (27)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Why is the Declaration of Independence important?
+          </h4>
+          <ol>
+            <li>
+              It says America is free from British control.
+            </li>
+            <li>
+              It says all people are created equal.
+            </li>
+            <li>
+              It identifies inherent rights.
+            </li>
+            <li>
+              It identifies individual freedoms.
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What founding document said the American colonies were free from Britain?
+          </h4>
+          <ol>
+            <li>
+              Declaration of Independence
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Name two important ideas from the Declaration of Independence and the U.S. Constitution.
+          </h4>
+          <ol>
+            <li>
+              Equality
+            </li>
+            <li>
+              Liberty
+            </li>
+            <li>
+              Social contract
+            </li>
+            <li>
+              Natural rights
+            </li>
+            <li>
+              Limited government
+            </li>
+            <li>
+              Self-government
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            The words "Life, Liberty, and the pursuit of Happiness" are in what founding document?
+          </h4>
+          <ol>
+            <li>
+              Declaration of Independence
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What is the economic system of the United States?*
+          </h4>
+          <ol>
+            <li>
+              Capitalism
+            </li>
+            <li>
+              Free market economy
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What is the rule of law?
+          </h4>
+          <ol>
+            <li>
+              Everyone must follow the law.
+            </li>
+            <li>
+              Leaders must obey the law.
+            </li>
+            <li>
+              Government must obey the law.
+            </li>
+            <li>
+              No one is above the law.
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Many documents influenced the U.S. Constitution. Name one.
+          </h4>
+          <ol>
+            <li>
+              Declaration of Independence
+            </li>
+            <li>
+              Articles of Confederation
+            </li>
+            <li>
+              Federalist Papers
+            </li>
+            <li>
+              Anti-Federalist Papers
+            </li>
+            <li>
+              Virginia Declaration of Rights
+            </li>
+            <li>
+              Fundamental Orders of Connecticut
+            </li>
+            <li>
+              Mayflower Compact
+            </li>
+            <li>
+              Iroquois Great Law of Peace
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            There are three branches of government. Why?
+          </h4>
+          <ol>
+            <li>
+              So one part does not become too powerful
+            </li>
+            <li>
+              Checks and balances
+            </li>
+            <li>
+              Separation of powers
+            </li>
+          </ol>
+        </div>
+        <hr />
+      </div>
+      <div>
+        <h3>
+          System of Government
+        </h3>
+        <div>
+          <h4>
+            Name the three branches of government
+          </h4>
+          <ol>
+            <li>
+              Legislative, executive, and judicial
+            </li>
+            <li>
+              Congress, president, and the courts
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            The President of the United States is in charge of which branch of government?
+          </h4>
+          <ol>
+            <li>
+              Executive branch
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What part of the federal government writes laws?
+          </h4>
+          <ol>
+            <li>
+              (U.S.) Congress
+            </li>
+            <li>
+              (U.S. or national) legislature
+            </li>
+            <li>
+              Legislative branch
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What are the two parts of the U.S. Congress?
+          </h4>
+          <ol>
+            <li>
+              Senate and House (of Representatives)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Name one power of the U.S. Congress.
+          </h4>
+          <ol>
+            <li>
+              Writes laws
+            </li>
+            <li>
+              Declares war
+            </li>
+            <li>
+              Makes the federal budget
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            How many U.S. senators are there?
+          </h4>
+          <ol>
+            <li>
+              One hundred (100)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            How long is a term for a U.S. senator?
+          </h4>
+          <ol>
+            <li>
+              Six (6) years 
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who is one of your state's U.S. senators now?
+          </h4>
+          <ol>
+            <li>
+              Answers will vary. Visit: https://en.wikipedia.org/wiki/List_of_current_United_States_senators#List_of_senators
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            How many voting members are in the House of Representatives?
+          </h4>
+          <ol>
+            <li>
+              Four hundred thirty-five (435)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            How long is a term for a member of the House of Representatives?
+          </h4>
+          <ol>
+            <li>
+              Two (2) years
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Why do U.S. representatives serve shorter terms than U.S. senators?
+          </h4>
+          <ol>
+            <li>
+              To more closely follow public opinion
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            How many senators does each state have?
+          </h4>
+          <ol>
+            <li>
+              Two (2)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Why does each state have two senators?
+          </h4>
+          <ol>
+            <li>
+              Equal representation (for small states)
+            </li>
+            <li>
+              The Great Compromise (Connecticut Compromise)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Name your U.S. representative.
+          </h4>
+          <ol>
+            <li>
+              Answers will vary. See: https://www.house.gov/representatives/find-your-representative
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What is the name of the Speaker of the House of Representatives now?
+          </h4>
+          <ol>
+            <li>
+              Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives.
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who does a U.S. senator represent?
+          </h4>
+          <ol>
+            <li>
+              Citizens of their state
+            </li>
+            <li>
+              People of their state
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who elects U.S. senators?
+          </h4>
+          <ol>
+            <li>
+              Citizens from their state
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who does a member of the House of Representatives represent?
+          </h4>
+          <ol>
+            <li>
+              Citizens in their (congressional) district
+            </li>
+            <li>
+              Citizens in their district
+            </li>
+            <li>
+              People from their (congressional) district
+            </li>
+            <li>
+              People in their district
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who elects members of the House of Representatives?
+          </h4>
+          <ol>
+            <li>
+              Citizens from their (congressional) district
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Some states have more representatives than other states. Why?
+          </h4>
+          <ol>
+            <li>
+              (Because of) the state's population
+            </li>
+            <li>
+              (Because) they have more people
+            </li>
+            <li>
+              (Because) some states have more people
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            The President of the United States is elected for how many years?
+          </h4>
+          <ol>
+            <li>
+              Four (4) years
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            The President of the United States can serve only two terms. Why?
+          </h4>
+          <ol>
+            <li>
+              (Because of) the 22nd Amendment
+            </li>
+            <li>
+              To keep the president from becoming too powerful
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What is the name of the President of the United States now?
+          </h4>
+          <ol>
+            <li>
+              Visit uscis.gov/citizenship/testupdates for the name of the President of the United States.
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What is the name of the Vice President of the United States now?
+          </h4>
+          <ol>
+            <li>
+              Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States.
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            If the president can no longer serve, who becomes president?
+          </h4>
+          <ol>
+            <li>
+              The Vice President (of the United States)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Name one power of the president.
+          </h4>
+          <ol>
+            <li>
+              Signs bills into law
+            </li>
+            <li>
+              Vetoes bills
+            </li>
+            <li>
+              Enforces laws
+            </li>
+            <li>
+              Commander in Chief (of the military)
+            </li>
+            <li>
+              Chief diplomat
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who is Commander in Chief of the U.S. military?
+          </h4>
+          <ol>
+            <li>
+              The President (of the United States)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who signs bills to become laws?
+          </h4>
+          <ol>
+            <li>
+              The President (of the United States)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who vetoes bills?
+          </h4>
+          <ol>
+            <li>
+              The President (of the United States)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who appoints federal judges?
+          </h4>
+          <ol>
+            <li>
+              The President (of the United States)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            The executive branch has many parts. Name one.
+          </h4>
+          <ol>
+            <li>
+              President (of the United States)
+            </li>
+            <li>
+              Cabinet
+            </li>
+            <li>
+              Federal departments and agencies
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What does the President's Cabinet do?
+          </h4>
+          <ol>
+            <li>
+              Advises the President (of the United States)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What are two Cabinet-level positions?
+          </h4>
+          <ol>
+            <li>
+              Attorney General
+            </li>
+            <li>
+              Secretary of Agriculture
+            </li>
+            <li>
+              Secretary of Commerce
+            </li>
+            <li>
+              Secretary of Defense
+            </li>
+            <li>
+              Secretary of Education
+            </li>
+            <li>
+              Secretary of Energy
+            </li>
+            <li>
+              Secretary of Health and Human Services
+            </li>
+            <li>
+              Secretary of Homeland Security
+            </li>
+            <li>
+              Secretary of Housing and Urban Development
+            </li>
+            <li>
+              Secretary of the Interior
+            </li>
+            <li>
+              Secretary of Labor
+            </li>
+            <li>
+              Secretary of State
+            </li>
+            <li>
+              Secretary of Transportation
+            </li>
+            <li>
+              Secretary of the Treasury
+            </li>
+            <li>
+              Secretary of Veterans Affairs
+            </li>
+            <li>
+              Vice President (of the United States)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Why is the Electoral College important?
+          </h4>
+          <ol>
+            <li>
+              It decides who is elected president.
+            </li>
+            <li>
+              It provides a compromise between the popular election of the president and congressional selection.
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What is one part of the judicial branch?
+          </h4>
+          <ol>
+            <li>
+              Supreme Court
+            </li>
+            <li>
+              Federal Courts
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What does the judicial branch do?
+          </h4>
+          <ol>
+            <li>
+              Reviews laws
+            </li>
+            <li>
+              Explains laws
+            </li>
+            <li>
+              Resolves disputes (disagreements) about the law
+            </li>
+            <li>
+              Decides if a law goes against the (U.S.) Constitution
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What is the highest court in the United States?
+          </h4>
+          <ol>
+            <li>
+              Supreme Court
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            How many seats are on the Supreme Court?
+          </h4>
+          <ol>
+            <li>
+              Nine (9)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            How many Supreme Court justices are usually needed to decide a case?
+          </h4>
+          <ol>
+            <li>
+              Five (5)
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            How long do Supreme Court justices serve?
+          </h4>
+          <ol>
+            <li>
+              (For) life
+            </li>
+            <li>
+              Lifetime appointment
+            </li>
+            <li>
+              (Until) retirement
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who is the Chief Justice of the United States now?
+          </h4>
+          <ol>
+            <li>
+              Visit uscis.gov/citizenship/testupdates for the name of the Chief Justice of the United States.
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Name one power that is only for the federal government.
+          </h4>
+          <ol>
+            <li>
+              Print paper money
+            </li>
+            <li>
+              Mint coins
+            </li>
+            <li>
+              Declare war
+            </li>
+            <li>
+              Create an army
+            </li>
+            <li>
+              Make treaties
+            </li>
+            <li>
+              Set foreign policy
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Name one power that is only for the states.
+          </h4>
+          <ol>
+            <li>
+              Provide schooling and education
+            </li>
+            <li>
+              Provide protection (police)
+            </li>
+            <li>
+              Provide safety (fire departments)
+            </li>
+            <li>
+              Give a driver's license
+            </li>
+            <li>
+              Approve zoning and land use
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What is the purpose of the 10th Amendment?
+          </h4>
+          <ol>
+            <li>
+              (It states that the) powers not given to the federal government belong to the states or to the people.
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            Who is the governor of your state now?
+          </h4>
+          <ol>
+            <li>
+              Answers will vary. See: https://en.wikipedia.org/wiki/List_of_current_United_States_governors
+            </li>
+          </ol>
+        </div>
+        <div>
+          <h4>
+            What is the capital of your state?
+          </h4>
+          <ol>
+            <li>
+              Answers will vary. See: https://www.britannica.com/topic/list-of-state-capitals-in-the-United-States-2119210
+            </li>
+          </ol>
+        </div>
+        <hr />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
