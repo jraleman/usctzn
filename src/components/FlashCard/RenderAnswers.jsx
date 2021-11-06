@@ -3,7 +3,7 @@ import uniqueId from '../../utils/helpers/uniqueId';
 
 const RenderAnswers = ({ children }) => (
     <>
-        {children[0]?.map((a) => (
+        {children?.map((a) => (
             <li key={uniqueId('answer_')}>{a}</li>
         ))}
     </>

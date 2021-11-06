@@ -82,11 +82,13 @@ Object {
     <div>
       <div>
         <h3>
-          What is the meaning of life?
+          What is the form of government of the United States?
         </h3>
         <ol>
           <li>
-            42
+            Republic
+            Constitution-based federal republic
+            Representative democracy
           </li>
         </ol>
       </div>
@@ -95,11 +97,13 @@ Object {
   "container": <div>
     <div>
       <h3>
-        What is the meaning of life?
+        What is the form of government of the United States?
       </h3>
       <ol>
         <li>
-          42
+          Republic
+          Constitution-based federal republic
+          Representative democracy
         </li>
       </ol>
     </div>

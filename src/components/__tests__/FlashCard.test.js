@@ -1,6 +1,7 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
 import FlashCard from '../FlashCard';
+import americanGovermentData from '../../data/american-goverment.json';
 
 describe('FlashCard', () => {
     it('renders', async () => {
@@ -12,12 +13,13 @@ describe('FlashCard', () => {
     });
 
     it('shows some answers', async () => {
-        const question = 'What is the meaning of life?';
-        const answers = ['42'];
+        const { content } = americanGovermentData;
+        const question = Object.keys(content[0])
+        const answers = Object.values(content[0])
         const component = render(<FlashCard question={question} answers={answers} />);
         const title = screen.getByText(question)?.textContent;
-        expect(title).toEqual(question);
-        expect(answers).toEqual(
+        expect(title).toEqual(question[0]);
+        expect(answers[0]).toEqual(
             expect.arrayContaining([expect.any(String)])
         );
         expect(component.container).not.toBeNull();
