@@ -1,9 +1,10 @@
 import React from 'react';
+import uniqueId from '../../utils/helpers/uniqueId';
 
 const RenderQuestions = ({ children }) => (
     <>
-        {children?.map((a, idx) => (
-            <li key={idx}>{a}</li>
+        {children[0]?.map((a) => (
+            <li key={uniqueId('answer_')}>{a}</li>
         ))}
     </>
 );
