@@ -1,12 +1,15 @@
 import React from 'react';
 import FlashCard from './components/FlashCard';
 import uniqueId from './utils/helpers/uniqueId';
+
 import americanGovermentData from './data/american-goverment.json';
 import rightsAndResponsabilitiesData from './data/rights-and-responsabilities.json';
+import systemOfGovermentData from './data/system-of-goverment.json';
 
 const App = () => {
     const data = [
         americanGovermentData,
+        systemOfGovermentData,
         rightsAndResponsabilitiesData,
     ];
     return (
