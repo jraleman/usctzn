@@ -5,16 +5,24 @@ Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <div>
-        <h2>
+      <div
+        class="sc-furwcr"
+      >
+        <h2
+          class="sc-iCfMLu dHgdwR"
+        >
           Questions and Answers
         </h2>
       </div>
     </div>
   </body>,
   "container": <div>
-    <div>
-      <h2>
+    <div
+      class="sc-furwcr"
+    >
+      <h2
+        class="sc-iCfMLu dHgdwR"
+      >
         Questions and Answers
       </h2>
     </div>
@@ -78,1753 +86,3089 @@ Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <div>
-        <h2>
+      <div
+        class="sc-furwcr"
+      >
+        <h2
+          class="sc-iCfMLu dHgdwR"
+        >
           Questions and Answers
         </h2>
-        <div>
-          <h3>
+        <div
+          class="sc-jRQBWg jJqPFW"
+        >
+          <h3
+            class="sc-eCImPb cSgPjx"
+          >
             Principles of American Government
           </h3>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is the form of government of the United States?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Republic
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Constitution-based federal republic
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Representative democracy
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is the supreme law of the land?*
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (U.S.) Constitution
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Name one thing the U.S. Constitution does.
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Forms the government
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Defines powers of government
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Defines the parts of government
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Protects the rights of the people
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               The U.S. Constitution starts with the words "We the People. What does "We the People" mean?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Self-government
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Popular sovereignty
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Consent of the governed
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 People should govern themselves
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (Example of) social contract
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               How are changes made to the U.S. Constitution?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Amendments
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 The amendment process
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What does the Bill of Rights protect?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (The basic) rights of Americans
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (The basic) rights of people living in the United States
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               How many amendments does the U.S. Constitution have?*
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Twenty-seven (27)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Why is the Declaration of Independence important?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 It says America is free from British control.
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 It says all people are created equal.
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 It identifies inherent rights.
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 It identifies individual freedoms.
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What founding document said the American colonies were free from Britain?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Declaration of Independence
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Name two important ideas from the Declaration of Independence and the U.S. Constitution.
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Equality
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Liberty
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Social contract
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Natural rights
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Limited government
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Self-government
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               The words "Life, Liberty, and the pursuit of Happiness" are in what founding document?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Declaration of Independence
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is the economic system of the United States?*
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Capitalism
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Free market economy
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is the rule of law?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Everyone must follow the law.
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Leaders must obey the law.
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Government must obey the law.
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 No one is above the law.
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Many documents influenced the U.S. Constitution. Name one.
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Declaration of Independence
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Articles of Confederation
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Federalist Papers
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Anti-Federalist Papers
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Virginia Declaration of Rights
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Fundamental Orders of Connecticut
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Mayflower Compact
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Iroquois Great Law of Peace
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               There are three branches of government. Why?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 So one part does not become too powerful
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Checks and balances
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Separation of powers
               </li>
             </ol>
           </div>
-          <hr />
+          <hr
+            class="sc-gKclnd"
+          />
         </div>
-        <div>
-          <h3>
+        <div
+          class="sc-jRQBWg jJqPFW"
+        >
+          <h3
+            class="sc-eCImPb cSgPjx"
+          >
             System of Government
           </h3>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Name the three branches of government
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Legislative, executive, and judicial
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Congress, president, and the courts
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               The President of the United States is in charge of which branch of government?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Executive branch
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What part of the federal government writes laws?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (U.S.) Congress
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (U.S. or national) legislature
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Legislative branch
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What are the two parts of the U.S. Congress?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Senate and House (of Representatives)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Name one power of the U.S. Congress.
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Writes laws
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Declares war
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Makes the federal budget
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               How many U.S. senators are there?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 One hundred (100)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               How long is a term for a U.S. senator?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Six (6) years 
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who is one of your state's U.S. senators now?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Answers will vary. Visit: https://en.wikipedia.org/wiki/List_of_current_United_States_senators#List_of_senators
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               How many voting members are in the House of Representatives?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Four hundred thirty-five (435)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               How long is a term for a member of the House of Representatives?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Two (2) years
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Why do U.S. representatives serve shorter terms than U.S. senators?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 To more closely follow public opinion
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               How many senators does each state have?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Two (2)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Why does each state have two senators?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Equal representation (for small states)
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 The Great Compromise (Connecticut Compromise)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Name your U.S. representative.
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Answers will vary. See: https://www.house.gov/representatives/find-your-representative
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is the name of the Speaker of the House of Representatives now?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives.
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who does a U.S. senator represent?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Citizens of their state
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 People of their state
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who elects U.S. senators?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Citizens from their state
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who does a member of the House of Representatives represent?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Citizens in their (congressional) district
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Citizens in their district
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 People from their (congressional) district
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 People in their district
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who elects members of the House of Representatives?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Citizens from their (congressional) district
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Some states have more representatives than other states. Why?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (Because of) the state's population
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (Because) they have more people
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (Because) some states have more people
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               The President of the United States is elected for how many years?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Four (4) years
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               The President of the United States can serve only two terms. Why?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (Because of) the 22nd Amendment
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 To keep the president from becoming too powerful
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is the name of the President of the United States now?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Visit uscis.gov/citizenship/testupdates for the name of the President of the United States.
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is the name of the Vice President of the United States now?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States.
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               If the president can no longer serve, who becomes president?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 The Vice President (of the United States)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Name one power of the president.
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Signs bills into law
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Vetoes bills
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Enforces laws
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Commander in Chief (of the military)
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Chief diplomat
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who is Commander in Chief of the U.S. military?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 The President (of the United States)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who signs bills to become laws?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 The President (of the United States)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who vetoes bills?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 The President (of the United States)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who appoints federal judges?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 The President (of the United States)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               The executive branch has many parts. Name one.
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 President (of the United States)
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Cabinet
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Federal departments and agencies
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What does the President's Cabinet do?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Advises the President (of the United States)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What are two Cabinet-level positions?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Attorney General
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Agriculture
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Commerce
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Defense
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Education
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Energy
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Health and Human Services
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Homeland Security
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Housing and Urban Development
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of the Interior
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Labor
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of State
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Transportation
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of the Treasury
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Secretary of Veterans Affairs
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Vice President (of the United States)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Why is the Electoral College important?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 It decides who is elected president.
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 It provides a compromise between the popular election of the president and congressional selection.
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is one part of the judicial branch?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Supreme Court
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Federal Courts
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What does the judicial branch do?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Reviews laws
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Explains laws
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Resolves disputes (disagreements) about the law
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Decides if a law goes against the (U.S.) Constitution
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is the highest court in the United States?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Supreme Court
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               How many seats are on the Supreme Court?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Nine (9)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               How many Supreme Court justices are usually needed to decide a case?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Five (5)
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               How long do Supreme Court justices serve?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (For) life
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Lifetime appointment
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (Until) retirement
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who is the Chief Justice of the United States now?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Visit uscis.gov/citizenship/testupdates for the name of the Chief Justice of the United States.
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Name one power that is only for the federal government.
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Print paper money
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Mint coins
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Declare war
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Create an army
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Make treaties
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Set foreign policy
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Name one power that is only for the states.
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Provide schooling and education
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Provide protection (police)
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Provide safety (fire departments)
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Give a driver's license
               </li>
-              <li>
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Approve zoning and land use
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is the purpose of the 10th Amendment?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 (It states that the) powers not given to the federal government belong to the states or to the people.
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               Who is the governor of your state now?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Answers will vary. See: https://en.wikipedia.org/wiki/List_of_current_United_States_governors
               </li>
             </ol>
           </div>
-          <div>
-            <h4>
+          <div
+            class="sc-gsDKAQ gYYfnA"
+          >
+            <h4
+              class="sc-dkPtRN evVIa-d"
+            >
               What is the capital of your state?
             </h4>
-            <ol>
-              <li>
+            <ol
+              class="sc-hKwDye jKYKGU"
+            >
+              <li
+                class="sc-bdvvtL blmbaR"
+              >
                 Answers will vary. See: https://www.britannica.com/topic/list-of-state-capitals-in-the-United-States-2119210
               </li>
             </ol>
           </div>
-          <hr />
+          <hr
+            class="sc-gKclnd"
+          />
         </div>
       </div>
     </div>
   </body>,
   "container": <div>
-    <div>
-      <h2>
+    <div
+      class="sc-furwcr"
+    >
+      <h2
+        class="sc-iCfMLu dHgdwR"
+      >
         Questions and Answers
       </h2>
-      <div>
-        <h3>
+      <div
+        class="sc-jRQBWg jJqPFW"
+      >
+        <h3
+          class="sc-eCImPb cSgPjx"
+        >
           Principles of American Government
         </h3>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is the form of government of the United States?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Republic
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Constitution-based federal republic
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Representative democracy
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is the supreme law of the land?*
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (U.S.) Constitution
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Name one thing the U.S. Constitution does.
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Forms the government
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Defines powers of government
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Defines the parts of government
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Protects the rights of the people
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             The U.S. Constitution starts with the words "We the People. What does "We the People" mean?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Self-government
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Popular sovereignty
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Consent of the governed
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               People should govern themselves
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (Example of) social contract
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             How are changes made to the U.S. Constitution?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Amendments
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               The amendment process
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What does the Bill of Rights protect?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (The basic) rights of Americans
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (The basic) rights of people living in the United States
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             How many amendments does the U.S. Constitution have?*
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Twenty-seven (27)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Why is the Declaration of Independence important?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               It says America is free from British control.
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               It says all people are created equal.
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               It identifies inherent rights.
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               It identifies individual freedoms.
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What founding document said the American colonies were free from Britain?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Declaration of Independence
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Name two important ideas from the Declaration of Independence and the U.S. Constitution.
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Equality
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Liberty
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Social contract
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Natural rights
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Limited government
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Self-government
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             The words "Life, Liberty, and the pursuit of Happiness" are in what founding document?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Declaration of Independence
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is the economic system of the United States?*
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Capitalism
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Free market economy
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is the rule of law?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Everyone must follow the law.
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Leaders must obey the law.
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Government must obey the law.
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               No one is above the law.
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Many documents influenced the U.S. Constitution. Name one.
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Declaration of Independence
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Articles of Confederation
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Federalist Papers
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Anti-Federalist Papers
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Virginia Declaration of Rights
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Fundamental Orders of Connecticut
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Mayflower Compact
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Iroquois Great Law of Peace
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             There are three branches of government. Why?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               So one part does not become too powerful
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Checks and balances
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Separation of powers
             </li>
           </ol>
         </div>
-        <hr />
+        <hr
+          class="sc-gKclnd"
+        />
       </div>
-      <div>
-        <h3>
+      <div
+        class="sc-jRQBWg jJqPFW"
+      >
+        <h3
+          class="sc-eCImPb cSgPjx"
+        >
           System of Government
         </h3>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Name the three branches of government
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Legislative, executive, and judicial
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Congress, president, and the courts
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             The President of the United States is in charge of which branch of government?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Executive branch
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What part of the federal government writes laws?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (U.S.) Congress
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (U.S. or national) legislature
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Legislative branch
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What are the two parts of the U.S. Congress?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Senate and House (of Representatives)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Name one power of the U.S. Congress.
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Writes laws
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Declares war
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Makes the federal budget
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             How many U.S. senators are there?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               One hundred (100)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             How long is a term for a U.S. senator?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Six (6) years 
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who is one of your state's U.S. senators now?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Answers will vary. Visit: https://en.wikipedia.org/wiki/List_of_current_United_States_senators#List_of_senators
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             How many voting members are in the House of Representatives?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Four hundred thirty-five (435)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             How long is a term for a member of the House of Representatives?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Two (2) years
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Why do U.S. representatives serve shorter terms than U.S. senators?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               To more closely follow public opinion
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             How many senators does each state have?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Two (2)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Why does each state have two senators?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Equal representation (for small states)
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               The Great Compromise (Connecticut Compromise)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Name your U.S. representative.
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Answers will vary. See: https://www.house.gov/representatives/find-your-representative
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is the name of the Speaker of the House of Representatives now?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives.
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who does a U.S. senator represent?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Citizens of their state
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               People of their state
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who elects U.S. senators?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Citizens from their state
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who does a member of the House of Representatives represent?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Citizens in their (congressional) district
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Citizens in their district
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               People from their (congressional) district
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               People in their district
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who elects members of the House of Representatives?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Citizens from their (congressional) district
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Some states have more representatives than other states. Why?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (Because of) the state's population
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (Because) they have more people
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (Because) some states have more people
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             The President of the United States is elected for how many years?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Four (4) years
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             The President of the United States can serve only two terms. Why?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (Because of) the 22nd Amendment
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               To keep the president from becoming too powerful
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is the name of the President of the United States now?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Visit uscis.gov/citizenship/testupdates for the name of the President of the United States.
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is the name of the Vice President of the United States now?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States.
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             If the president can no longer serve, who becomes president?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               The Vice President (of the United States)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Name one power of the president.
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Signs bills into law
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Vetoes bills
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Enforces laws
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Commander in Chief (of the military)
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Chief diplomat
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who is Commander in Chief of the U.S. military?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               The President (of the United States)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who signs bills to become laws?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               The President (of the United States)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who vetoes bills?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               The President (of the United States)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who appoints federal judges?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               The President (of the United States)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             The executive branch has many parts. Name one.
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               President (of the United States)
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Cabinet
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Federal departments and agencies
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What does the President's Cabinet do?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Advises the President (of the United States)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What are two Cabinet-level positions?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Attorney General
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Agriculture
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Commerce
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Defense
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Education
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Energy
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Health and Human Services
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Homeland Security
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Housing and Urban Development
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of the Interior
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Labor
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of State
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Transportation
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of the Treasury
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Secretary of Veterans Affairs
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Vice President (of the United States)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Why is the Electoral College important?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               It decides who is elected president.
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               It provides a compromise between the popular election of the president and congressional selection.
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is one part of the judicial branch?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Supreme Court
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Federal Courts
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What does the judicial branch do?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Reviews laws
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Explains laws
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Resolves disputes (disagreements) about the law
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Decides if a law goes against the (U.S.) Constitution
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is the highest court in the United States?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Supreme Court
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             How many seats are on the Supreme Court?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Nine (9)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             How many Supreme Court justices are usually needed to decide a case?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Five (5)
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             How long do Supreme Court justices serve?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (For) life
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Lifetime appointment
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (Until) retirement
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who is the Chief Justice of the United States now?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Visit uscis.gov/citizenship/testupdates for the name of the Chief Justice of the United States.
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Name one power that is only for the federal government.
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Print paper money
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Mint coins
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Declare war
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Create an army
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Make treaties
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Set foreign policy
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Name one power that is only for the states.
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Provide schooling and education
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Provide protection (police)
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Provide safety (fire departments)
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Give a driver's license
             </li>
-            <li>
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Approve zoning and land use
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is the purpose of the 10th Amendment?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               (It states that the) powers not given to the federal government belong to the states or to the people.
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             Who is the governor of your state now?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Answers will vary. See: https://en.wikipedia.org/wiki/List_of_current_United_States_governors
             </li>
           </ol>
         </div>
-        <div>
-          <h4>
+        <div
+          class="sc-gsDKAQ gYYfnA"
+        >
+          <h4
+            class="sc-dkPtRN evVIa-d"
+          >
             What is the capital of your state?
           </h4>
-          <ol>
-            <li>
+          <ol
+            class="sc-hKwDye jKYKGU"
+          >
+            <li
+              class="sc-bdvvtL blmbaR"
+            >
               Answers will vary. See: https://www.britannica.com/topic/list-of-state-capitals-in-the-United-States-2119210
             </li>
           </ol>
         </div>
-        <hr />
+        <hr
+          class="sc-gKclnd"
+        />
       </div>
     </div>
   </div>,
