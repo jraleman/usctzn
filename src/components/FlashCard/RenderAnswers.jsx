@@ -11,7 +11,7 @@ const RenderAnswers = ({ children }) => (
 );
 
 const ListItem = styled.li`
-    padding: 0.5em;
+    text-align: left;
     font-family: 'Helvetica', sans-serif;
 `;
 

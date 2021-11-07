@@ -34,15 +34,18 @@ const CardContainer = styled.div`
 `;
 
 const CardInner = styled.div`
-    background-color: #f9f9f9;
-    border: #666666 solid;
+    color: #222222;
+    border: #cccccc solid;
     position: relative;
     width: 100%;
     height: 100%;
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
-    ${({ isFlipped }) => isFlipped && 'transform: rotateY(180deg)'}
+    ${({ isFlipped }) => isFlipped && 'transform: rotateY(180deg);'}
+    &:hover {
+        cursor: pointer;
+    }
 `;
 
 const FrontCard = styled.div`
@@ -51,24 +54,27 @@ const FrontCard = styled.div`
     height: 100%;
     -webkit-backface-visibility: hidden; /* Safari */
     backface-visibility: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #f9f9f9;
+    box-shadow: 5px 10px 18px #888888;
 `;
 
-const BackCard = styled.div`
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    -webkit-backface-visibility: hidden; /* Safari */
-    backface-visibility: hidden;
+const BackCard = styled(FrontCard)`
     transform: rotateY(180deg);
+    overflow: scroll;
 `;
 
 const CardTitle = styled.h4`
     text-align: center;
     color: #222222;
     font-family: 'Helvetica', sans-serif;
+    width: 100%;
 `;
 
 const OrderedList = styled.ol`
+    width: 100%;
     line-height: 1.5em;
 `;
 
