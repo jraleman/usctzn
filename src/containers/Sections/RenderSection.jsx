@@ -20,6 +20,7 @@ const RenderSection = ({ title = '', content = [] }) => (
 const SectionTitle = styled.h3`
     text-align: center;
     text-transform: uppercase;
+    color: ${({ theme }) => theme.color.text};
 `;
 
 const SectionContainer = styled.div`

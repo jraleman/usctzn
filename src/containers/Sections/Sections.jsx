@@ -22,8 +22,11 @@ const Sections = ({ data = [] }) => {
 const Title = styled.h2`
     text-align: center;
     text-transform: uppercase;
+    color: ${({ theme }) => theme.color.text};
 `;
 
-const SectionsContainer = styled.div``;
+const SectionsContainer = styled.div`
+    background-color: ${({ theme }) => theme.color.background};
+`;
 
 export default Sections;
