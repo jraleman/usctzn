@@ -12,7 +12,6 @@ const RenderAnswers = ({ children }) => (
 
 const ListItem = styled.li`
     text-align: left;
-    font-family: 'Helvetica', sans-serif;
 `;
 
 export default RenderAnswers;
