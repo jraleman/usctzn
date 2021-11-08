@@ -1,77 +1,33 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Header renders 1`] = `
+exports[`DarkMode renders 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <header
-        class="sc-bdvvtL doAWMX"
-      >
-        <div
-          class="sc-gsDKAQ cOopls"
-        >
-          <div
-            class="sc-hKwDye"
+      <div>
+        <button>
+          <span
+            aria-label="dark mode"
+            role="img"
           >
-            Info
-          </div>
-          <div
-            class="sc-dkPtRN"
-          >
-            USCTZN
-          </div>
-          <div
-            class="sc-eCImPb"
-          >
-            <div>
-              <button>
-                <span
-                  aria-label="dark mode"
-                  role="img"
-                >
-                  🌜
-                </span>
-              </button>
-            </div>
-          </div>
-        </div>
-      </header>
+            🌜
+          </span>
+        </button>
+      </div>
     </div>
   </body>,
   "container": <div>
-    <header
-      class="sc-bdvvtL doAWMX"
-    >
-      <div
-        class="sc-gsDKAQ cOopls"
-      >
-        <div
-          class="sc-hKwDye"
+    <div>
+      <button>
+        <span
+          aria-label="dark mode"
+          role="img"
         >
-          Info
-        </div>
-        <div
-          class="sc-dkPtRN"
-        >
-          USCTZN
-        </div>
-        <div
-          class="sc-eCImPb"
-        >
-          <div>
-            <button>
-              <span
-                aria-label="dark mode"
-                role="img"
-              >
-                🌜
-              </span>
-            </button>
-          </div>
-        </div>
-      </div>
-    </header>
+          🌜
+        </span>
+      </button>
+    </div>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

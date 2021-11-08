@@ -1,10 +1,10 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import Header from '../Header';
+import DarkMode from '../DarkMode';
 
-describe('Header', () => {
+describe('DarkMode', () => {
     it('renders', async () => {
-        const component = render(<Header  />);
+        const component = render(<DarkMode  />);
         expect(component).not.toBeNull();
         expect(component).toMatchSnapshot();
     });

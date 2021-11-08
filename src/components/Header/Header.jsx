@@ -1,13 +1,19 @@
 import React from 'react';
 import styled from 'styled-components';
+import DarkMode from '../DarkMode';
 
-const Header = () => {
+const Header = ({ onThemeChange, theme }) => {
     return (
         <HeaderContainer>
             <ContentWrapper>
                 <Info>Info</Info>
                 <Logo>USCTZN</Logo>
-                <Mode>Dark mode</Mode>
+                <Mode>
+                    <DarkMode
+                        theme={theme}
+                        onThemeChange={onThemeChange}
+                    />
+                </Mode>
             </ContentWrapper>
         </HeaderContainer>
     );
