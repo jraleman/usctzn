@@ -34,8 +34,8 @@ const CardContainer = styled.div`
 `;
 
 const CardInner = styled.div`
-    color: ${({ theme }) => theme.color.text};
-    border: ${({ theme }) => theme.color.background}; solid;
+    color: ${({ theme }) => theme.color.card.text};
+    border: ${({ theme }) => theme.color.card.boder}; solid;
     position: relative;
     width: 100%;
     height: 100%;
@@ -57,8 +57,8 @@ const FrontCard = styled.div`
     display: flex;
     flex-direction: row;
     align-items: center;
-    background-color: ${({ theme }) => theme.color.background};
-    box-shadow: 5px 10px 18px #888888;
+    background-color: ${({ theme }) => theme.color.card.background};
+    box-shadow: 5px 10px 18px ${({ theme }) => theme.color.card.shadow};
 `;
 
 const BackCard = styled(FrontCard)`
@@ -68,7 +68,7 @@ const BackCard = styled(FrontCard)`
 
 const CardTitle = styled.h4`
     text-align: center;
-    color: ${({ theme }) => theme.color.text};
+    color: ${({ theme }) => theme.color.card.text};
     font-family: 'Helvetica', sans-serif;
     width: 100%;
 `;

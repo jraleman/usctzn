@@ -17,13 +17,16 @@ const RenderSection = ({ title = '', content = [] }) => (
     </SectionContainer>
 );
 
-const SectionTitle = styled.h3`
+const SectionTitle = styled.summary`
     text-align: center;
     text-transform: uppercase;
     color: ${({ theme }) => theme.color.text};
+    &:hover {
+        cursor: pointer;
+    }
 `;
 
-const SectionContainer = styled.div`
+const SectionContainer = styled.details`
     padding: 2em;
 `;
 

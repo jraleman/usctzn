@@ -6,7 +6,7 @@ const Header = ({ onThemeChange, theme }) => {
     return (
         <HeaderContainer>
             <ContentWrapper>
-                <Info>Info</Info>
+                <Info>{'❓'}</Info>
                 <Logo>USCTZN</Logo>
                 <Mode>
                     <DarkMode
@@ -20,8 +20,8 @@ const Header = ({ onThemeChange, theme }) => {
 };
 
 const HeaderContainer = styled.header`
-    background-color: black;
-    color: white;
+    background-color: ${({ theme }) => theme.color.header.background};
+    color:  ${({ theme }) => theme.color.header.text};
     padding: 1em;
 `;
 
@@ -31,10 +31,18 @@ const ContentWrapper = styled.div`
     align-items: center;
 `;
 
-const Logo = styled.div``;
+const Logo = styled.span``;
 
-const Info = styled.div``;
+const Info = styled.div`
+    &:hover {
+        cursor: pointer;
+    }
+`;
 
-const Mode = styled.div``;
+const Mode = styled.div`
+    &:hover {
+        cursor: pointer;
+    }
+`;
 
 export default Header;

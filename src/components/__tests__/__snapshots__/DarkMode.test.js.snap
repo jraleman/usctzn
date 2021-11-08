@@ -5,28 +5,28 @@ Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <div>
-        <button>
-          <span
-            aria-label="dark mode"
-            role="img"
-          >
-            🌜
-          </span>
-        </button>
-      </div>
-    </div>
-  </body>,
-  "container": <div>
-    <div>
-      <button>
+      <div
+        class="sc-bdvvtL hXLbhZ"
+      >
         <span
           aria-label="dark mode"
           role="img"
         >
           🌜
         </span>
-      </button>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-bdvvtL hXLbhZ"
+    >
+      <span
+        aria-label="dark mode"
+        role="img"
+      >
+        🌜
+      </span>
     </div>
   </div>,
   "debug": [Function],

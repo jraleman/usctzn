@@ -6,33 +6,33 @@ Object {
   "baseElement": <body>
     <div>
       <header
-        class="sc-iqseJM ddnIMM"
+        class="sc-crHmcD kgHNNH"
       >
         <div
-          class="sc-crHmcD fVIldA"
+          class="sc-egiyK hBPAaS"
         >
           <div
+            class="sc-ksdxgE Cjxrt"
+          >
+            ❓
+          </div>
+          <span
             class="sc-bqiRlB"
           >
-            Info
-          </div>
-          <div
-            class="sc-egiyK"
-          >
             USCTZN
-          </div>
+          </span>
           <div
-            class="sc-ksdxgE"
+            class="sc-hBUSln dyUuXR"
           >
-            <div>
-              <button>
-                <span
-                  aria-label="dark mode"
-                  role="img"
-                >
-                  🌞
-                </span>
-              </button>
+            <div
+              class="sc-iqseJM boubRS"
+            >
+              <span
+                aria-label="dark mode"
+                role="img"
+              >
+                🌞
+              </span>
             </div>
           </div>
         </div>
@@ -45,31 +45,31 @@ Object {
         >
           Questions and Answers
         </h2>
-        <div
+        <details
           class="sc-furwcr leNTFu"
         >
-          <h3
-            class="sc-iCfMLu dBAiWs"
+          <summary
+            class="sc-iCfMLu ctsrWK"
           >
             Principles of American Government
-          </h3>
+          </summary>
           <div
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is the form of government of the United States?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -97,19 +97,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is the supreme law of the land?*
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -127,19 +127,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Name one thing the U.S. Constitution does.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -172,19 +172,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   The U.S. Constitution starts with the words "We the People. What does "We the People" mean?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -222,19 +222,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How are changes made to the U.S. Constitution?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -257,19 +257,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What does the Bill of Rights protect?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -292,19 +292,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How many amendments does the U.S. Constitution have?*
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -322,19 +322,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Why is the Declaration of Independence important?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -367,19 +367,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What founding document said the American colonies were free from Britain?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -397,19 +397,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Name two important ideas from the Declaration of Independence and the U.S. Constitution.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -452,19 +452,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   The words "Life, Liberty, and the pursuit of Happiness" are in what founding document?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -482,19 +482,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is the economic system of the United States?*
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -517,19 +517,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is the rule of law?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -562,19 +562,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Many documents influenced the U.S. Constitution. Name one.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -627,19 +627,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   There are three branches of government. Why?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -666,32 +666,32 @@ Object {
           <hr
             class="sc-pVTFL"
           />
-        </div>
-        <div
+        </details>
+        <details
           class="sc-furwcr leNTFu"
         >
-          <h3
-            class="sc-iCfMLu dBAiWs"
+          <summary
+            class="sc-iCfMLu ctsrWK"
           >
             Rights and Responsibilities
-          </h3>
+          </summary>
           <div
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   There are four amendments to the U.S. Constitution about who can vote. Describe one of them
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -724,19 +724,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who can vote in federal elections, run for federal office, and serve on a jury in the United States?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -764,19 +764,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What are three rights of everyone living in the United States?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -819,19 +819,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What do we show loyalty to when we say the Pledge of Allegiance?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -854,19 +854,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Name two promises that new citizens make in the Oath of Allegiance.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -909,19 +909,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How can people become United States citizens?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -949,19 +949,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What are two examples of civic participation in the United States?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1024,19 +1024,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is one way Americans can serve their country?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1079,19 +1079,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Why is it important to pay federal taxes?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1124,19 +1124,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   It is important for all men age 18 through 25 to register for the Selective Service. Name one reason why.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1163,32 +1163,32 @@ Object {
           <hr
             class="sc-pVTFL"
           />
-        </div>
-        <div
+        </details>
+        <details
           class="sc-furwcr leNTFu"
         >
-          <h3
-            class="sc-iCfMLu dBAiWs"
+          <summary
+            class="sc-iCfMLu ctsrWK"
           >
             System of Government
-          </h3>
+          </summary>
           <div
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Name the three branches of government
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1211,19 +1211,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   The President of the United States is in charge of which branch of government?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1241,19 +1241,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What part of the federal government writes laws?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1281,19 +1281,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What are the two parts of the U.S. Congress?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1311,19 +1311,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Name one power of the U.S. Congress.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1351,19 +1351,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How many U.S. senators are there?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1381,19 +1381,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How long is a term for a U.S. senator?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1411,19 +1411,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who is one of your state's U.S. senators now?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1441,19 +1441,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How many voting members are in the House of Representatives?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1471,19 +1471,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How long is a term for a member of the House of Representatives?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1501,19 +1501,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Why do U.S. representatives serve shorter terms than U.S. senators?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1531,19 +1531,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How many senators does each state have?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1561,19 +1561,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Why does each state have two senators?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1596,19 +1596,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Name your U.S. representative.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1626,19 +1626,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is the name of the Speaker of the House of Representatives now?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1656,19 +1656,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who does a U.S. senator represent?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1691,19 +1691,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who elects U.S. senators?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1721,19 +1721,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who does a member of the House of Representatives represent?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1766,19 +1766,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who elects members of the House of Representatives?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1796,19 +1796,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Some states have more representatives than other states. Why?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1836,19 +1836,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   The President of the United States is elected for how many years?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1866,19 +1866,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   The President of the United States can serve only two terms. Why?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1901,19 +1901,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is the name of the President of the United States now?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1931,19 +1931,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is the name of the Vice President of the United States now?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1961,19 +1961,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   If the president can no longer serve, who becomes president?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -1991,19 +1991,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Name one power of the president.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2041,19 +2041,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who is Commander in Chief of the U.S. military?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2071,19 +2071,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who signs bills to become laws?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2101,19 +2101,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who vetoes bills?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2131,19 +2131,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who appoints federal judges?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2161,19 +2161,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   The executive branch has many parts. Name one.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2201,19 +2201,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What does the President's Cabinet do?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2231,19 +2231,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What are two Cabinet-level positions?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2336,19 +2336,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Why is the Electoral College important?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2371,19 +2371,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is one part of the judicial branch?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2406,19 +2406,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What does the judicial branch do?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2451,19 +2451,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is the highest court in the United States?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2481,19 +2481,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How many seats are on the Supreme Court?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2511,19 +2511,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How many Supreme Court justices are usually needed to decide a case?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2541,19 +2541,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   How long do Supreme Court justices serve?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2581,19 +2581,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who is the Chief Justice of the United States now?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2611,19 +2611,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Name one power that is only for the federal government.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2666,19 +2666,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Name one power that is only for the states.
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2716,19 +2716,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is the purpose of the 10th Amendment?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2746,19 +2746,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   Who is the governor of your state now?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2776,19 +2776,19 @@ Object {
             class="sc-gsDKAQ kJFAjl"
           >
             <div
-              class="sc-dkPtRN diMMjX"
+              class="sc-dkPtRN hjJekd"
             >
               <div
-                class="sc-hKwDye jHrQuX"
+                class="sc-hKwDye fREtQR"
               >
                 <h4
-                  class="sc-jRQBWg hHsuqc"
+                  class="sc-jRQBWg ZpCQc"
                 >
                   What is the capital of your state?
                 </h4>
               </div>
               <div
-                class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+                class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
               >
                 <ol
                   class="sc-gKclnd fRGKkQ"
@@ -2805,39 +2805,39 @@ Object {
           <hr
             class="sc-pVTFL"
           />
-        </div>
+        </details>
       </div>
     </div>
   </body>,
   "container": <div>
     <header
-      class="sc-iqseJM ddnIMM"
+      class="sc-crHmcD kgHNNH"
     >
       <div
-        class="sc-crHmcD fVIldA"
+        class="sc-egiyK hBPAaS"
       >
         <div
+          class="sc-ksdxgE Cjxrt"
+        >
+          ❓
+        </div>
+        <span
           class="sc-bqiRlB"
         >
-          Info
-        </div>
-        <div
-          class="sc-egiyK"
-        >
           USCTZN
-        </div>
+        </span>
         <div
-          class="sc-ksdxgE"
+          class="sc-hBUSln dyUuXR"
         >
-          <div>
-            <button>
-              <span
-                aria-label="dark mode"
-                role="img"
-              >
-                🌞
-              </span>
-            </button>
+          <div
+            class="sc-iqseJM boubRS"
+          >
+            <span
+              aria-label="dark mode"
+              role="img"
+            >
+              🌞
+            </span>
           </div>
         </div>
       </div>
@@ -2850,31 +2850,31 @@ Object {
       >
         Questions and Answers
       </h2>
-      <div
+      <details
         class="sc-furwcr leNTFu"
       >
-        <h3
-          class="sc-iCfMLu dBAiWs"
+        <summary
+          class="sc-iCfMLu ctsrWK"
         >
           Principles of American Government
-        </h3>
+        </summary>
         <div
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is the form of government of the United States?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -2902,19 +2902,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is the supreme law of the land?*
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -2932,19 +2932,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Name one thing the U.S. Constitution does.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -2977,19 +2977,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 The U.S. Constitution starts with the words "We the People. What does "We the People" mean?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3027,19 +3027,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How are changes made to the U.S. Constitution?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3062,19 +3062,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What does the Bill of Rights protect?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3097,19 +3097,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How many amendments does the U.S. Constitution have?*
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3127,19 +3127,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Why is the Declaration of Independence important?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3172,19 +3172,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What founding document said the American colonies were free from Britain?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3202,19 +3202,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Name two important ideas from the Declaration of Independence and the U.S. Constitution.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3257,19 +3257,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 The words "Life, Liberty, and the pursuit of Happiness" are in what founding document?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3287,19 +3287,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is the economic system of the United States?*
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3322,19 +3322,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is the rule of law?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3367,19 +3367,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Many documents influenced the U.S. Constitution. Name one.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3432,19 +3432,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 There are three branches of government. Why?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3471,32 +3471,32 @@ Object {
         <hr
           class="sc-pVTFL"
         />
-      </div>
-      <div
+      </details>
+      <details
         class="sc-furwcr leNTFu"
       >
-        <h3
-          class="sc-iCfMLu dBAiWs"
+        <summary
+          class="sc-iCfMLu ctsrWK"
         >
           Rights and Responsibilities
-        </h3>
+        </summary>
         <div
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 There are four amendments to the U.S. Constitution about who can vote. Describe one of them
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3529,19 +3529,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who can vote in federal elections, run for federal office, and serve on a jury in the United States?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3569,19 +3569,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What are three rights of everyone living in the United States?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3624,19 +3624,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What do we show loyalty to when we say the Pledge of Allegiance?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3659,19 +3659,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Name two promises that new citizens make in the Oath of Allegiance.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3714,19 +3714,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How can people become United States citizens?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3754,19 +3754,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What are two examples of civic participation in the United States?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3829,19 +3829,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is one way Americans can serve their country?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3884,19 +3884,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Why is it important to pay federal taxes?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3929,19 +3929,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 It is important for all men age 18 through 25 to register for the Selective Service. Name one reason why.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -3968,32 +3968,32 @@ Object {
         <hr
           class="sc-pVTFL"
         />
-      </div>
-      <div
+      </details>
+      <details
         class="sc-furwcr leNTFu"
       >
-        <h3
-          class="sc-iCfMLu dBAiWs"
+        <summary
+          class="sc-iCfMLu ctsrWK"
         >
           System of Government
-        </h3>
+        </summary>
         <div
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Name the three branches of government
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4016,19 +4016,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 The President of the United States is in charge of which branch of government?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4046,19 +4046,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What part of the federal government writes laws?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4086,19 +4086,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What are the two parts of the U.S. Congress?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4116,19 +4116,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Name one power of the U.S. Congress.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4156,19 +4156,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How many U.S. senators are there?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4186,19 +4186,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How long is a term for a U.S. senator?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4216,19 +4216,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who is one of your state's U.S. senators now?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4246,19 +4246,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How many voting members are in the House of Representatives?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4276,19 +4276,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How long is a term for a member of the House of Representatives?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4306,19 +4306,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Why do U.S. representatives serve shorter terms than U.S. senators?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4336,19 +4336,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How many senators does each state have?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4366,19 +4366,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Why does each state have two senators?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4401,19 +4401,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Name your U.S. representative.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4431,19 +4431,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is the name of the Speaker of the House of Representatives now?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4461,19 +4461,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who does a U.S. senator represent?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4496,19 +4496,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who elects U.S. senators?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4526,19 +4526,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who does a member of the House of Representatives represent?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4571,19 +4571,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who elects members of the House of Representatives?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4601,19 +4601,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Some states have more representatives than other states. Why?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4641,19 +4641,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 The President of the United States is elected for how many years?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4671,19 +4671,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 The President of the United States can serve only two terms. Why?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4706,19 +4706,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is the name of the President of the United States now?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4736,19 +4736,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is the name of the Vice President of the United States now?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4766,19 +4766,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 If the president can no longer serve, who becomes president?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4796,19 +4796,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Name one power of the president.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4846,19 +4846,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who is Commander in Chief of the U.S. military?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4876,19 +4876,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who signs bills to become laws?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4906,19 +4906,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who vetoes bills?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4936,19 +4936,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who appoints federal judges?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -4966,19 +4966,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 The executive branch has many parts. Name one.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5006,19 +5006,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What does the President's Cabinet do?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5036,19 +5036,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What are two Cabinet-level positions?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5141,19 +5141,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Why is the Electoral College important?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5176,19 +5176,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is one part of the judicial branch?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5211,19 +5211,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What does the judicial branch do?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5256,19 +5256,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is the highest court in the United States?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5286,19 +5286,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How many seats are on the Supreme Court?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5316,19 +5316,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How many Supreme Court justices are usually needed to decide a case?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5346,19 +5346,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 How long do Supreme Court justices serve?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5386,19 +5386,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who is the Chief Justice of the United States now?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5416,19 +5416,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Name one power that is only for the federal government.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5471,19 +5471,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Name one power that is only for the states.
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5521,19 +5521,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is the purpose of the 10th Amendment?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5551,19 +5551,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 Who is the governor of your state now?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5581,19 +5581,19 @@ Object {
           class="sc-gsDKAQ kJFAjl"
         >
           <div
-            class="sc-dkPtRN diMMjX"
+            class="sc-dkPtRN hjJekd"
           >
             <div
-              class="sc-hKwDye jHrQuX"
+              class="sc-hKwDye fREtQR"
             >
               <h4
-                class="sc-jRQBWg hHsuqc"
+                class="sc-jRQBWg ZpCQc"
               >
                 What is the capital of your state?
               </h4>
             </div>
             <div
-              class="sc-hKwDye sc-eCImPb jHrQuX bcEjmK"
+              class="sc-hKwDye sc-eCImPb fREtQR bcEjmK"
             >
               <ol
                 class="sc-gKclnd fRGKkQ"
@@ -5610,7 +5610,7 @@ Object {
         <hr
           class="sc-pVTFL"
         />
-      </div>
+      </details>
     </div>
   </div>,
   "debug": [Function],
