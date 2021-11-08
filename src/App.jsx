@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { ThemeProvider } from 'styled-components';
 import Sections from './containers/Sections';
 import Header from './components/Header';
@@ -8,8 +8,10 @@ import americanGovermentData from './data/american-goverment.json';
 import rightsAndResponsabilitiesData from './data/rights-and-responsabilities.json';
 import systemOfGovermentData from './data/system-of-goverment.json';
 import GlobalStyles from './utils/styles/global';
+import ModalInfo from './components/ModalInfo/ModalInfo';
 
 const App = () => {
+    const [isModalOpen, setIsModalOpen] = useState(false);
     const { theme, setTheme } = useThemeMode();
     const data = [
         americanGovermentData,
@@ -22,11 +24,21 @@ const App = () => {
         localStorage.setItem('theme', themeMode);
     };
 
+    const onModalOpen = () => {
+        setIsModalOpen((t) => !t);
+    };
+
     const selectedTheme = theme === 'dark' ? darkTheme : lightTheme;
     return (
         <ThemeProvider theme={selectedTheme}>
             <GlobalStyles />
-            <Header onThemeChange={onThemeChange} theme={theme} />
+            <Header
+                theme={theme}
+                isModalOpen={isModalOpen}
+                onThemeChange={onThemeChange}
+                onModalOpen={onModalOpen}
+            />
+            <ModalInfo isModalOpen={isModalOpen} />
             <Sections data={data} />
         </ThemeProvider>
     );

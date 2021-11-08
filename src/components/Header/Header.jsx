@@ -2,11 +2,17 @@ import React from 'react';
 import styled from 'styled-components';
 import DarkMode from '../DarkMode';
 
-const Header = ({ onThemeChange, theme }) => {
+const Header = ({
+    theme = '',
+    isModalOpen = false,
+    onThemeChange = () => {},
+    onModalOpen = () => {},
+}) => {
+    const modalIcon = isModalOpen ? '❌' : '❓';
     return (
         <HeaderContainer>
             <ContentWrapper>
-                <Info>{'❓'}</Info>
+                <Info onClick={onModalOpen}>{modalIcon}</Info>
                 <Logo>USCTZN</Logo>
                 <Mode>
                     <DarkMode
