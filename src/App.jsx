@@ -9,6 +9,7 @@ import { darkTheme, lightTheme } from './utils/styles/theme';
 import americanGovermentData from './data/american-goverment.json';
 import rightsAndResponsabilitiesData from './data/rights-and-responsabilities.json';
 import systemOfGovermentData from './data/system-of-goverment.json';
+import symbolsAndHolidaysData from './data/symbols-and-holidays.json';
 
 const App = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
@@ -17,6 +18,7 @@ const App = () => {
         americanGovermentData,
         rightsAndResponsabilitiesData,
         systemOfGovermentData,
+        symbolsAndHolidaysData,
     ];
 
     const onThemeChange = (themeMode) => {
