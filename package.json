@@ -17,12 +17,16 @@
     "web-vitals": "^1.0.1"
   },
   "devDependencies": {
+    "cordova-android": "^9.1.0",
     "cordova-plugin-whitelist": "^1.3.4"
   },
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {}
-    }
+    },
+    "platforms": [
+      "android"
+    ]
   },
   "scripts": {
     "start": "react-scripts start",
