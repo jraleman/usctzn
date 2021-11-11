@@ -11,7 +11,8 @@ import rightsAndResponsabilitiesData from './data/rights-and-responsabilities.js
 import systemOfGovermentData from './data/system-of-goverment.json';
 import symbolsAndHolidaysData from './data/symbols-and-holidays.json';
 import eightHundredsHistoryData from './data/1800s-history.json';
-import colonialPeriodAndIndependence from './data/colonial-period-and-independence.json';
+import colonialPeriodAndIndependenceData from './data/colonial-period-and-independence.json';
+import recentAmericanHistoryData from './data/recent-american-history.json';
 
 const App = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
@@ -22,7 +23,8 @@ const App = () => {
         systemOfGovermentData,
         symbolsAndHolidaysData,
         eightHundredsHistoryData,
-        colonialPeriodAndIndependence,
+        colonialPeriodAndIndependenceData,
+        recentAmericanHistoryData,
     ];
 
     const onThemeChange = (themeMode) => {
