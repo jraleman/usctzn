@@ -10,6 +10,7 @@ import americanGovermentData from './data/american-goverment.json';
 import rightsAndResponsabilitiesData from './data/rights-and-responsabilities.json';
 import systemOfGovermentData from './data/system-of-goverment.json';
 import symbolsAndHolidaysData from './data/symbols-and-holidays.json';
+import eightHundredsHistoryData from './data/1800s-history.json';
 
 const App = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
@@ -19,6 +20,7 @@ const App = () => {
         rightsAndResponsabilitiesData,
         systemOfGovermentData,
         symbolsAndHolidaysData,
+        eightHundredsHistoryData,
     ];
 
     const onThemeChange = (themeMode) => {
