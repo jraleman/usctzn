@@ -1,6 +1,6 @@
-# USCTZN (US citizen)
+# USCTZN (US CiTiZeN)
 
-![logo](assets/logo.png)
+![logo](src/assets/logo.png)
 
 A study guide for the US citizenship exam, using React and Cordova
 
@@ -42,5 +42,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Attributions
 
 - [Grenadier Font](https://www.1001fonts.com/grenadier-font.html)
-- [Simple Flash Cards](https://reactjsexample.com/simple-flash-cards-with-react-js-and-immutable-js/)
 - [Using React with Cordova - Shubham Patil](https://medium.com/@pshubham/using-react-with-cordova-f235de698cc3)

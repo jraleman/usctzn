@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import DarkMode from '../DarkMode';
+import logoSrc from '../../assets/logo.png';
 
 const Header = ({
     theme = '',
@@ -13,7 +14,7 @@ const Header = ({
         <HeaderContainer>
             <ContentWrapper>
                 <Info onClick={onModalOpen}>{modalIcon}</Info>
-                <Logo>USCTZN</Logo>
+                <Logo src={logoSrc} alt="USCTZN" />
                 <Mode>
                     <DarkMode
                         theme={theme}
@@ -37,7 +38,10 @@ const ContentWrapper = styled.div`
     align-items: center;
 `;
 
-const Logo = styled.span``;
+const Logo = styled.img`
+    height: 48px;
+    filter: invert();
+`;
 
 const Info = styled.div`
     &:hover {

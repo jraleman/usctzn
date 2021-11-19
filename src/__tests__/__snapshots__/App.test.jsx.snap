@@ -16,11 +16,11 @@ Object {
           >
             ❓
           </div>
-          <span
-            class="sc-bqiRlB"
-          >
-            USCTZN
-          </span>
+          <img
+            alt="USCTZN"
+            class="sc-bqiRlB gSGpCz"
+            src="logo.png"
+          />
           <div
             class="sc-hBUSln dyUuXR"
           >
@@ -5309,11 +5309,11 @@ Object {
         >
           ❓
         </div>
-        <span
-          class="sc-bqiRlB"
-        >
-          USCTZN
-        </span>
+        <img
+          alt="USCTZN"
+          class="sc-bqiRlB gSGpCz"
+          src="logo.png"
+        />
         <div
           class="sc-hBUSln dyUuXR"
         >
