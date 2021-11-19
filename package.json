@@ -19,7 +19,8 @@
   "devDependencies": {
     "cordova-android": "^9.1.0",
     "cordova-ios": "^6.2.0",
-    "cordova-plugin-whitelist": "^1.3.4"
+    "cordova-plugin-whitelist": "^1.3.4",
+    "react-snap": "^1.23.0"
   },
   "cordova": {
     "plugins": {
