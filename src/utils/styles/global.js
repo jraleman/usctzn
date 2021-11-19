@@ -8,6 +8,7 @@ const GlobalStyles = createGlobalStyle`
     }
     body {
         transition: background 0.2s ease-in, color 0.2s ease-in;
+        margin: 0;
     }
 `;
 

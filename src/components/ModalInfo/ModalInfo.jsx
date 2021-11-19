@@ -8,7 +8,7 @@ const ModalInfo = ({ isModalOpen }) => {
     return (
         <ModalWrapper>
             <ModalContainer>
-                <Title>USCTZN</Title>
+                <Title>About</Title>
                 <InfoContent>
                     <strong>👨‍💻 Author: </strong> Jose Ramon Aleman
                     <br />
@@ -37,7 +37,7 @@ const ModalContainer = styled.div`
     max-width: 500px;
 `;
 
-const Title = styled.p``;
+const Title = styled.h2``;
 
 const InfoContent = styled.p`
     padding: 1em;

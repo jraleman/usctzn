@@ -15,9 +15,9 @@ export const lightTheme = {
             text: '#f9f9f9',
         },
         modal: {
-            text: '#f1f1f1',
-            background: '#666666',
-            border: '#212121',
+            text: '#121620',
+            background: '#f1f1f1',
+            border: '#0c0f16',
         },
         background: '#f1f1f1',
         text: '#121620'
@@ -27,7 +27,7 @@ export const lightTheme = {
 export const darkTheme = {
     color: {
         card: {
-            background: '#212121',
+            background: '#0c0f16',
             text: '#f9f9f9',
             boder: '#333333',
             shadow: '#666666',
