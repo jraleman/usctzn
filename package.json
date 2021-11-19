@@ -39,7 +39,7 @@
     "postbuild": "react-snap"
   },
   "reactSnap": {
-    "source": "docs",
+    "source": "build",
     "minifyHtml": {
       "collapseWhitespace": false,
       "removeComments": false
