@@ -36,7 +36,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "generate-static": "yarn build && react-snap"
+    "static": "yarn build && react-snap && rm -rf docs/ && mv build/ docs/"
   },
   "reactSnap": {
     "source": "build",
