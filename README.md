@@ -6,22 +6,32 @@ A study guide for the US citizenship exam, using React and Cordova
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Setup
 
-In the project directory, you can run:
+Install dependencies by running
 
-### `yarn start`
+```sh
+yarn
+```
 
-Runs the app in the development mode.\
+### Run
+
+Run the app in the development mode:
+
+```sh
+yarn start
+```
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Tests
 
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### Build
 
 ### `yarn build`
 
@@ -32,6 +42,40 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+#### Static HTML File
+
+### `yarn static`
+
+open `package.json`
+
+```json
+{
+    "homepage": "./",
+}
+```
+
+and modify `hompage` property to 
+
+```json
+{
+    "homepage": "https://your-domain.com/usctzn/",
+}
+```
+
+open `public/index.html`
+
+```html
+<script src="cordova.js" type="text/javascript"></script>
+```
+
+and comment out `cordova.js` srcscript
+
+```html
+<!-- <script src="cordova.js" type="text/javascript"></script> -->
+```
+
+open `./docs/index.html` to open the app
 
 ## Resources
 
