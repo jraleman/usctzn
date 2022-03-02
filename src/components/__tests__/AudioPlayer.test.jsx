@@ -1,10 +1,10 @@
 import React from 'react';
-import { render } from '@testing-library/react';
+import renderWithProviders from '../../utils/helpers/renderWithProviders';
 import AudioPlayer from '../AudioPlayer';
 
 describe('AudioPlayer', () => {
     it('renders', () => {
-        const component = render(<AudioPlayer />);
+        const component = renderWithProviders(<AudioPlayer />);
         expect(component).not.toBeNull();
         expect(component).toMatchSnapshot();
     });

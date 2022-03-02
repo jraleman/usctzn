@@ -49,6 +49,7 @@ const App = () => {
             />
             <ModalInfo isModalOpen={isModalOpen} />
             <StudyGuide />
+            <hr />
             <Sections data={data} />
         </ThemeProvider>
     );

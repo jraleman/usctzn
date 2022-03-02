@@ -20,7 +20,8 @@ export const lightTheme = {
             border: '#0c0f16',
         },
         background: '#f1f1f1',
-        text: '#121620'
+        text: '#121620',
+        link: '#b31942',
     }
 };
 
@@ -46,6 +47,7 @@ export const darkTheme = {
             border: '#0c0f16',
         },
         background: '#121620',
-        text: '#f1f1f1'
+        text: '#f1f1f1',
+        link: '#b31942',
     }
 };

@@ -6,26 +6,26 @@ Object {
   "baseElement": <body>
     <div>
       <header
-        class="sc-hBUSln dTGBoy"
+        class="sc-fotOHu lkwePn"
       >
         <div
-          class="sc-fotOHu hJUcWA"
+          class="sc-fFeiMQ gtUOPX"
         >
           <div
-            class="sc-bkkeKt jkJeQH"
+            class="sc-ieecCq gKASND"
           >
             ❓
           </div>
           <img
             alt="USCTZN"
-            class="sc-fFeiMQ djgMAh"
+            class="sc-bkkeKt FgjFl"
             src="logo.png"
           />
           <div
-            class="sc-ieecCq gKASND"
+            class="sc-dJjYzT cMHVM"
           >
             <div
-              class="sc-ksdxgE Cjxrt"
+              class="sc-hBUSln dyUuXR"
             >
               <span
                 aria-label="dark mode"
@@ -38,39 +38,44 @@ Object {
         </div>
       </header>
       <div
-        class="sc-bqiRlB"
+        class="sc-ksdxgE"
       >
         <h2
-          class="sc-egiyK hIshQA"
+          class="sc-bqiRlB hqOxVX"
         >
           Study Guide
         </h2>
-        <div>
-          AudioPlayer
+        <div
+          class="sc-egiyK"
+        >
+          <a
+            class="sc-iqseJM fRXKSl"
+            download=""
+            href="/assets/128_2020_Civics_Test_Version_English.mp3"
+          >
+            🔊 Civics Q&A Audio File 🔊
+          </a>
         </div>
         <div
           class="sc-crHmcD"
         >
           <a
-            class="sc-iqseJM bWdISN"
+            class="sc-iqseJM fRXKSl"
             download=""
             href="/assets/Study_Guide_-_Civic_Test_2020.pdf"
           >
-            ⏬ 
-            Study Guide 2020
-             ⏬
+            ⏬ Study Guide 2020 ⏬
           </a>
           <a
-            class="sc-iqseJM bWdISN"
+            class="sc-iqseJM fRXKSl"
             download=""
             href="/assets/128_Civics_Questions_and_Answers_(2020_version).pdf"
           >
-            ⏬ 
-            128 Civics Q&A
-             ⏬
+            ⏬ 128 Civics Q&A ⏬
           </a>
         </div>
       </div>
+      <hr />
       <div
         class="sc-kDTinF"
       >
@@ -5333,26 +5338,26 @@ Object {
   </body>,
   "container": <div>
     <header
-      class="sc-hBUSln dTGBoy"
+      class="sc-fotOHu lkwePn"
     >
       <div
-        class="sc-fotOHu hJUcWA"
+        class="sc-fFeiMQ gtUOPX"
       >
         <div
-          class="sc-bkkeKt jkJeQH"
+          class="sc-ieecCq gKASND"
         >
           ❓
         </div>
         <img
           alt="USCTZN"
-          class="sc-fFeiMQ djgMAh"
+          class="sc-bkkeKt FgjFl"
           src="logo.png"
         />
         <div
-          class="sc-ieecCq gKASND"
+          class="sc-dJjYzT cMHVM"
         >
           <div
-            class="sc-ksdxgE Cjxrt"
+            class="sc-hBUSln dyUuXR"
           >
             <span
               aria-label="dark mode"
@@ -5365,39 +5370,44 @@ Object {
       </div>
     </header>
     <div
-      class="sc-bqiRlB"
+      class="sc-ksdxgE"
     >
       <h2
-        class="sc-egiyK hIshQA"
+        class="sc-bqiRlB hqOxVX"
       >
         Study Guide
       </h2>
-      <div>
-        AudioPlayer
+      <div
+        class="sc-egiyK"
+      >
+        <a
+          class="sc-iqseJM fRXKSl"
+          download=""
+          href="/assets/128_2020_Civics_Test_Version_English.mp3"
+        >
+          🔊 Civics Q&A Audio File 🔊
+        </a>
       </div>
       <div
         class="sc-crHmcD"
       >
         <a
-          class="sc-iqseJM bWdISN"
+          class="sc-iqseJM fRXKSl"
           download=""
           href="/assets/Study_Guide_-_Civic_Test_2020.pdf"
         >
-          ⏬ 
-          Study Guide 2020
-           ⏬
+          ⏬ Study Guide 2020 ⏬
         </a>
         <a
-          class="sc-iqseJM bWdISN"
+          class="sc-iqseJM fRXKSl"
           download=""
           href="/assets/128_Civics_Questions_and_Answers_(2020_version).pdf"
         >
-          ⏬ 
-          128 Civics Q&A
-           ⏬
+          ⏬ 128 Civics Q&A ⏬
         </a>
       </div>
     </div>
+    <hr />
     <div
       class="sc-kDTinF"
     >
