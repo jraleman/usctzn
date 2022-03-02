@@ -6,26 +6,26 @@ Object {
   "baseElement": <body>
     <div>
       <header
-        class="sc-crHmcD kgHNNH"
+        class="sc-hBUSln dTGBoy"
       >
         <div
-          class="sc-egiyK hBPAaS"
+          class="sc-fotOHu hJUcWA"
         >
           <div
-            class="sc-ksdxgE Cjxrt"
+            class="sc-bkkeKt jkJeQH"
           >
             ❓
           </div>
           <img
             alt="USCTZN"
-            class="sc-bqiRlB gSGpCz"
+            class="sc-fFeiMQ djgMAh"
             src="logo.png"
           />
           <div
-            class="sc-hBUSln dyUuXR"
+            class="sc-ieecCq gKASND"
           >
             <div
-              class="sc-iqseJM boubRS"
+              class="sc-ksdxgE Cjxrt"
             >
               <span
                 aria-label="dark mode"
@@ -38,10 +38,44 @@ Object {
         </div>
       </header>
       <div
-        class="sc-kDTinF ejQxnQ"
+        class="sc-bqiRlB"
       >
         <h2
-          class="sc-jrQzAO kzgFMV"
+          class="sc-egiyK hIshQA"
+        >
+          Study Guide
+        </h2>
+        <div>
+          AudioPlayer
+        </div>
+        <div
+          class="sc-crHmcD"
+        >
+          <a
+            class="sc-iqseJM bWdISN"
+            download=""
+            href="/assets/Study_Guide_-_Civic_Test_2020.pdf"
+          >
+            ⏬ 
+            Study Guide 2020
+             ⏬
+          </a>
+          <a
+            class="sc-iqseJM bWdISN"
+            download=""
+            href="/assets/128_Civics_Questions_and_Answers_(2020_version).pdf"
+          >
+            ⏬ 
+            128 Civics Q&A
+             ⏬
+          </a>
+        </div>
+      </div>
+      <div
+        class="sc-kDTinF"
+      >
+        <h2
+          class="sc-jrQzAO bsahzs"
         >
           Questions and Answers
         </h2>
@@ -49,7 +83,7 @@ Object {
           class="sc-furwcr leNTFu"
         >
           <summary
-            class="sc-iCfMLu ctsrWK"
+            class="sc-iCfMLu efqHkD"
           >
             Principles of American Government
           </summary>
@@ -671,7 +705,7 @@ Object {
           class="sc-furwcr leNTFu"
         >
           <summary
-            class="sc-iCfMLu ctsrWK"
+            class="sc-iCfMLu efqHkD"
           >
             Rights and Responsibilities
           </summary>
@@ -1168,7 +1202,7 @@ Object {
           class="sc-furwcr leNTFu"
         >
           <summary
-            class="sc-iCfMLu ctsrWK"
+            class="sc-iCfMLu efqHkD"
           >
             System of Government
           </summary>
@@ -2810,7 +2844,7 @@ Object {
           class="sc-furwcr leNTFu"
         >
           <summary
-            class="sc-iCfMLu ctsrWK"
+            class="sc-iCfMLu efqHkD"
           >
             Symbols and Holidays
           </summary>
@@ -3202,7 +3236,7 @@ Object {
           class="sc-furwcr leNTFu"
         >
           <summary
-            class="sc-iCfMLu ctsrWK"
+            class="sc-iCfMLu efqHkD"
           >
             1800s History
           </summary>
@@ -3644,7 +3678,7 @@ Object {
           class="sc-furwcr leNTFu"
         >
           <summary
-            class="sc-iCfMLu ctsrWK"
+            class="sc-iCfMLu efqHkD"
           >
             Colonial Period and Independence
           </summary>
@@ -4451,7 +4485,7 @@ Object {
           class="sc-furwcr leNTFu"
         >
           <summary
-            class="sc-iCfMLu ctsrWK"
+            class="sc-iCfMLu efqHkD"
           >
             Recent American History and Other Important Historical Information
           </summary>
@@ -5299,26 +5333,26 @@ Object {
   </body>,
   "container": <div>
     <header
-      class="sc-crHmcD kgHNNH"
+      class="sc-hBUSln dTGBoy"
     >
       <div
-        class="sc-egiyK hBPAaS"
+        class="sc-fotOHu hJUcWA"
       >
         <div
-          class="sc-ksdxgE Cjxrt"
+          class="sc-bkkeKt jkJeQH"
         >
           ❓
         </div>
         <img
           alt="USCTZN"
-          class="sc-bqiRlB gSGpCz"
+          class="sc-fFeiMQ djgMAh"
           src="logo.png"
         />
         <div
-          class="sc-hBUSln dyUuXR"
+          class="sc-ieecCq gKASND"
         >
           <div
-            class="sc-iqseJM boubRS"
+            class="sc-ksdxgE Cjxrt"
           >
             <span
               aria-label="dark mode"
@@ -5331,10 +5365,44 @@ Object {
       </div>
     </header>
     <div
-      class="sc-kDTinF ejQxnQ"
+      class="sc-bqiRlB"
     >
       <h2
-        class="sc-jrQzAO kzgFMV"
+        class="sc-egiyK hIshQA"
+      >
+        Study Guide
+      </h2>
+      <div>
+        AudioPlayer
+      </div>
+      <div
+        class="sc-crHmcD"
+      >
+        <a
+          class="sc-iqseJM bWdISN"
+          download=""
+          href="/assets/Study_Guide_-_Civic_Test_2020.pdf"
+        >
+          ⏬ 
+          Study Guide 2020
+           ⏬
+        </a>
+        <a
+          class="sc-iqseJM bWdISN"
+          download=""
+          href="/assets/128_Civics_Questions_and_Answers_(2020_version).pdf"
+        >
+          ⏬ 
+          128 Civics Q&A
+           ⏬
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-kDTinF"
+    >
+      <h2
+        class="sc-jrQzAO bsahzs"
       >
         Questions and Answers
       </h2>
@@ -5342,7 +5410,7 @@ Object {
         class="sc-furwcr leNTFu"
       >
         <summary
-          class="sc-iCfMLu ctsrWK"
+          class="sc-iCfMLu efqHkD"
         >
           Principles of American Government
         </summary>
@@ -5964,7 +6032,7 @@ Object {
         class="sc-furwcr leNTFu"
       >
         <summary
-          class="sc-iCfMLu ctsrWK"
+          class="sc-iCfMLu efqHkD"
         >
           Rights and Responsibilities
         </summary>
@@ -6461,7 +6529,7 @@ Object {
         class="sc-furwcr leNTFu"
       >
         <summary
-          class="sc-iCfMLu ctsrWK"
+          class="sc-iCfMLu efqHkD"
         >
           System of Government
         </summary>
@@ -8103,7 +8171,7 @@ Object {
         class="sc-furwcr leNTFu"
       >
         <summary
-          class="sc-iCfMLu ctsrWK"
+          class="sc-iCfMLu efqHkD"
         >
           Symbols and Holidays
         </summary>
@@ -8495,7 +8563,7 @@ Object {
         class="sc-furwcr leNTFu"
       >
         <summary
-          class="sc-iCfMLu ctsrWK"
+          class="sc-iCfMLu efqHkD"
         >
           1800s History
         </summary>
@@ -8937,7 +9005,7 @@ Object {
         class="sc-furwcr leNTFu"
       >
         <summary
-          class="sc-iCfMLu ctsrWK"
+          class="sc-iCfMLu efqHkD"
         >
           Colonial Period and Independence
         </summary>
@@ -9744,7 +9812,7 @@ Object {
         class="sc-furwcr leNTFu"
       >
         <summary
-          class="sc-iCfMLu ctsrWK"
+          class="sc-iCfMLu efqHkD"
         >
           Recent American History and Other Important Historical Information
         </summary>

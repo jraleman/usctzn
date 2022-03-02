@@ -20,7 +20,6 @@ const RenderSection = ({ title = '', content = [] }) => (
 const SectionTitle = styled.summary`
     text-align: center;
     text-transform: uppercase;
-    color: ${({ theme }) => theme.color.text};
     &:hover {
         cursor: pointer;
     }
