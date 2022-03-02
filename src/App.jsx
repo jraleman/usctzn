@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { ThemeProvider } from 'styled-components';
 import Sections from './containers/Sections';
+import StudyGuide from './containers/StudyGuide';
 import Header from './components/Header';
 import ModalInfo from './components/ModalInfo/ModalInfo';
 import GlobalStyles from './utils/styles/global';
@@ -47,6 +48,7 @@ const App = () => {
                 onModalOpen={onModalOpen}
             />
             <ModalInfo isModalOpen={isModalOpen} />
+            <StudyGuide />
             <Sections data={data} />
         </ThemeProvider>
     );
