@@ -55,7 +55,7 @@ open `package.json`
 }
 ```
 
-and modify `hompage` property to
+and modify `homepage` property to
 
 ```json
 {
