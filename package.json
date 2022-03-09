@@ -36,14 +36,22 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "static": "yarn build && react-snap && rm -rf docs/ && mv build/ docs/"
+    "static": "react-scripts build && react-snap && rm -rf docs/ && mv build/ docs/"
   },
   "reactSnap": {
     "source": "build",
     "minifyHtml": {
       "collapseWhitespace": false,
       "removeComments": false
-    }
+    },
+    "skipThirdPartyRequests": true,
+    "destination": "docs",
+    "headless": true,
+    "puppeteer": {
+      "cache": true
+    },
+    "puppeteerArgs": [],
+    "puppeteerIgnoreHTTPSErrors": false
   },
   "eslintConfig": {
     "extends": [
